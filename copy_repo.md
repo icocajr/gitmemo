@@ -12,9 +12,9 @@
   ```
   $ git clone --bare https://github.com/MiniZinc/libminizinc.git
   $ cd ./libminizinc.git
-  $ git push --mirror https://github.com/icocajr/libminizinc.git  # icocajr はアカウント名
+  $ git push --mirror https://github.com/XXXXX/libminizinc.git  # icocajr はアカウント名
   $ cd ..
-  $ git clone https://github.com/icocajr/libminizinc.git
+  $ git clone https://github.com/XXXXX/libminizinc.git
   ```
 * 不要になったミラーリポジトリを削除する
   ```
